@@ -1,0 +1,30 @@
+body{
+  background-color: #000000;
+  color: #962B2B;
+  text-align: center;
+}
+
+#Skeletonman{
+  margin-right: 25%;
+}
+
+#Pictureofme{
+
+  transform: rotate(90deg);
+  margin-top: 5%;
+  margin-right: -30%;
+  margin-bottom: -1%;
+}
+
+#Communistparty{
+margin-bottom: -25%;
+
+}
+h2{
+	font-family: cursive;
+	font-size: 25px;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: 500;
+	line-height: 26.4px;
+}
