@@ -1,3 +1,12 @@
 body{
-  
+  text-align: center;
+  background-color: #000000;
+  color: #962B2B
+
+}
+#Blue{
+  font-size: 30px;
+}
+#Red{
+  font-size: 30px;
 }
